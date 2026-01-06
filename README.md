@@ -29,3 +29,9 @@ Core Features
 ✅ Real-time Search: Instant filtering of properties based on user input.
 
 ✅ Fully Responsive: Optimized for every device, from mobile screens to 4K monitors.
+
+
+
+Component,Status,Live Link
+Frontend --- Deployed---> https://nest-away-client.vercel.app
+Backend API--- Running---> https://nest-away-api.onrender.com/api/properties
