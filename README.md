@@ -1,4 +1,5 @@
 #Nest Away - Full Stack Accommodation Platform(Airbnb - like)
+ 
 Nest Away is a comprehensive full-stack web application designed to simplify property bookings. Inspired by Airbnb, this platform allows users to explore premium accommodations, manage secure listings, and experience a seamless flow from property discovery to simulated booking.
 
 Tech Stack & Engineering
@@ -17,7 +18,8 @@ MongoDB & Mongoose: Designed a NoSQL database schema to store property data and 
 CORS & JSON: Implemented secure cross-origin resource sharing and JSON data parsing.
 
 
-Core Features
+Core Features 
+
 ✅ Dynamic Property Engine: Automatically renders listings fetched from the MongoDB database.
 
 ✅ Secure User Authentication: Integrated login/registration forms with frontend validation.
